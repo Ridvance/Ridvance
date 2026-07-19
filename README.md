@@ -57,11 +57,8 @@ I am a Software Engineer passionate about building **high-performance mobile app
 
 ## 🏆 Featured Projects
 
-**[Herdilek E-Commerce System](https://github.com/Ridvance/herdilekecommerce)**
-> Full-stack microservices-based e-commerce platform built with React, Node.js, and PostgreSQL. Demonstrates complex system architecture and Docker deployments.
-
-**[WhatsHope (LifeHope)](https://github.com/Ridvance/whatshope)** 🚧
-> Offline-first emergency and disaster communication app. Features message queuing and mesh networking principles for low-bandwidth environments.
-
 **[Kasa Defteri](https://github.com/Ridvance/kasadefteri)**
 > Personal finance application built with Flutter and Supabase, featuring complex financial reporting and real-time cloud synchronization.
+
+**[Boyama Oyunu](https://github.com/Ridvance/boyamaoyunu)**
+> Interactive kids coloring application. Focuses on intuitive touch controls and state management for a seamless creative experience.
