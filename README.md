@@ -7,8 +7,6 @@
   </a>
 </p>
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=Ridvance&show_icons=true&theme=radical" />
-
 ## 👨‍💻 About Me
 
 I am a Software Engineer passionate about building **high-performance mobile applications** and **scalable system architectures**. With a strong focus on clean code and robust systems, I take ideas from concept to production.
@@ -67,9 +65,3 @@ I am a Software Engineer passionate about building **high-performance mobile app
 
 **[Kasa Defteri](https://github.com/Ridvance/kasadefteri)**
 > Personal finance application built with Flutter and Supabase, featuring complex financial reporting and real-time cloud synchronization.
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridvance&theme=radical" alt="GitHub Streak" />
-</p>
